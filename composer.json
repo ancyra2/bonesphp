@@ -1,0 +1,14 @@
+{
+  "name": "ancyra2/bonesphp",
+  "description": "my php backend framework",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ancyra",
+      "email": "duran.talih@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
