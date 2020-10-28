@@ -25,12 +25,12 @@ Class Routes{
     public function getView($link,$view){
         $this->link=$link;
         $this->view=$view;
-        header("Location:http://localhost/Bonesphp/app/views/".$view);
+        header("Location:http://localhost/Bonesphp/".$view);
     }
     public function getController($link,$controller){
         $this->link=$link;
         $this->controller=$controller;
-        header("Location:http://localhost/Bonesphp/app/controllers/".$controller);
+        header("Location:http://localhost/Bonesphp/".$controller);
     }
 
 
