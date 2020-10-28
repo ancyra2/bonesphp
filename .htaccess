@@ -1,2 +1,6 @@
 Options +FollowSymlinks
 RewriteEngine On
+
+RewriteRule ^Controller/([a-zA-Z0-9_-]+)$ http://localhost/Bonesphp/app/controllers/$1.controllers.php
+RewriteRule ^([a-zA-Z0-9_-]+)$ http://localhost/Bonesphp/app/views/$1.views.php
+

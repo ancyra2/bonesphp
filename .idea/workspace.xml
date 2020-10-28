@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f622ae6f-56ee-4ed4-8b6a-d3a1057a5656" name="Default Changelist" comment="" />
+    <list default="true" id="f622ae6f-56ee-4ed4-8b6a-d3a1057a5656" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/basic.controllers.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/basic.controllers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/basic.datasource.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/_shared/header.views.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/_shared/header.views.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/basic.views.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/basic.views.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/index.views.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/core/basic.systems.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/core/basic.systems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/routes.systems.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/core/routes.systems.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +48,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iacDJQQtY45AtMXPU2HlVZSoEE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,8 +68,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\bonesphp\app\views\_shared" />
       <recent name="C:\xampp\htdocs\bonesphp\vendor\core" />
+      <recent name="C:\xampp\htdocs\bonesphp\app\views\_shared" />
       <recent name="C:\xampp\htdocs\bonesphp\app" />
       <recent name="C:\xampp\htdocs\bonesphp" />
     </key>
@@ -86,11 +119,30 @@
       <workItem from="1603193180975" duration="2049000" />
       <workItem from="1603200120189" duration="1486000" />
       <workItem from="1603529323573" duration="88000" />
+      <workItem from="1603534518132" duration="584000" />
+      <workItem from="1603540292873" duration="696000" />
+      <workItem from="1603700009251" duration="650000" />
+      <workItem from="1603808875351" duration="3296000" />
+      <workItem from="1603881837168" duration="1125000" />
+      <workItem from="1603884693847" duration="935000" />
+      <workItem from="1603894736390" duration="704000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="507" y="73" key="#PHP" timestamp="1602323435264">
@@ -101,10 +153,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="538" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1602318687845" />
-    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1603194118404">
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603894790383">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1603194118404" />
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1603894790383" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1603884794244">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1603884794244" />
     <state x="301" y="75" key="SettingsEditor" timestamp="1602685132225">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
