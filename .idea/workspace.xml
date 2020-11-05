@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f622ae6f-56ee-4ed4-8b6a-d3a1057a5656" name="Default Changelist" comment="" />
+    <list default="true" id="f622ae6f-56ee-4ed4-8b6a-d3a1057a5656" name="Default Changelist" comment="Deneme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/core/routes.systems.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/core/routes.systems.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,8 +127,16 @@
       <workItem from="1604314643433" duration="2421000" />
       <workItem from="1604497185538" duration="2148000" />
       <workItem from="1604500625113" duration="871000" />
-      <workItem from="1604569083639" duration="579000" />
+      <workItem from="1604569083639" duration="984000" />
     </task>
+    <task id="LOCAL-00001" summary="Deneme">
+      <created>1604569739566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604569739566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +153,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Deneme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deneme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="507" y="73" key="#PHP" timestamp="1602323435264">
@@ -168,6 +183,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1602685132225" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1604569747909">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1604569747909" />
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604569662421">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1604569662421" />
     <state x="643" y="201" key="refactoring.ChangeSignatureDialog" timestamp="1603200286511">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

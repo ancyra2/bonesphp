@@ -25,7 +25,6 @@ Class Routes{
         //Eğer controller dosyası mevcut ise onunla ilgili kısımları hallet yoksa doğrudan istenilen view a yönlendir.
         if($controller!=null){
             $this->viewController($controller);
-            exit();//****************************
         }else{
             header("Location:http://localhost/Bonesphp/".$view);
         }
