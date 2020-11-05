@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f622ae6f-56ee-4ed4-8b6a-d3a1057a5656" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/basic.controllers.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/second.controllers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/basic.views.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home.views.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/core/routes.systems.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/core/routes.systems.php" afterDir="false" />
-    </list>
+    <list default="true" id="f622ae6f-56ee-4ed4-8b6a-d3a1057a5656" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,6 +124,7 @@
       <workItem from="1604314643433" duration="2421000" />
       <workItem from="1604497185538" duration="2148000" />
       <workItem from="1604500625113" duration="871000" />
+      <workItem from="1604569083639" duration="579000" />
     </task>
     <servers />
   </component>
