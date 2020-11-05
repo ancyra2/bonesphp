@@ -16,7 +16,10 @@ require_once "vendor\core\basic.systems.php";
     <?php
 
         echo "Routes sistemine yönlendiriliyorsunuz...";
-        header("Location:http://localhost/Bonesphp/routes/web.php");
+
+        header("Refresh:1;url=http://localhost/Bonesphp/routes/web.php");
+        //header("Location:http://localhost/Bonesphp/routes/web.php");
+
 
     ?>
 

@@ -3,10 +3,6 @@ require_once("C:/xampp/htdocs/bonesphp/config/settings.php");
 require_once("vendor/core/basic.systems.php");
 
 
-/*
-    index.php sayfası buraya yönlendirir program ilk başladığında buradan da
-routes klasöründeki web.php dosyasına gidilir.
-*/
 
 Class Routes{
     public $link;
@@ -22,17 +18,28 @@ Class Routes{
         $this->model=$model;
     }
 
-    public function getView($link,$view){
-        $this->link=$link;
+        public function getView($view,$controller){
+
         $this->view=$view;
-        header("Location:http://localhost/Bonesphp/".$view);
-    }
-    public function getController($link,$controller){
-        $this->link=$link;
         $this->controller=$controller;
-        header("Location:http://localhost/Bonesphp/".$controller);
+        //Eğer controller dosyası mevcut ise onunla ilgili kısımları hallet yoksa doğrudan istenilen view a yönlendir.
+        if($controller!=null){
+            $this->viewController($controller);
+            exit();//****************************
+        }else{
+            header("Location:http://localhost/Bonesphp/".$view);
+        }
+
     }
 
+    public  function viewController($controller)
+    {
+        include_once("app/controllers/$controller.controllers.php");
+    }
+
+    public function web($link){
+        return "http://localhost/Bonesphp/routes/web.php?routes=".$link;
+    }
 
 
 }

@@ -1,18 +1,28 @@
 <?php
 require_once ("C:/xampp/htdocs/bonesphp/config/settings.php");
 require_once ("vendor/core/basic.systems.php");
-//Route sistemi oluşturur.
+//Routes sistemi
 require_once("vendor/core/routes.systems.php");
 
-//Yeni bir route nesnesi oluşturur.
-/*$homeRoutes=new Routes("home","home",null,null);
-$homeRoutes->getView($homeRoutes->link,$homeRoutes->view);
-*/
-$basicRoutes = new Routes("/","basic","basic",null);
-$basicRoutes->getController("/",$basicRoutes->controller);
-$basicRoutes->getView($basicRoutes->link,$basicRoutes->view);
 
-/*$secondRoutes =new Routes("second","second",null,null);
-$secondRoutes->getView($secondRoutes->link,$secondRoutes->view);
-*/
+
+$homeRoutes = new Routes("home","home","home",null); //Yeni bir route nesnesi oluşturur.(views home)
+$secondRoutes = new Routes("second","second","second",null);
+
+if(isset($_GET["routes"])) {
+    $route = $_GET["routes"];
+
+
+switch ($route){
+    case "home":$homeRoutes->getView("home",null);
+    break;
+    case "second":$secondRoutes->getView("second",null);
+    break;
+}
+}else{
+    $homeRoutes->getView("home",null);
+}
+
+
+
 

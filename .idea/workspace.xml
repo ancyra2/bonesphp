@@ -22,14 +22,12 @@
     <list default="true" id="f622ae6f-56ee-4ed4-8b6a-d3a1057a5656" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/basic.controllers.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/basic.controllers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/basic.datasource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/_shared/header.views.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/_shared/header.views.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/basic.views.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/basic.views.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/index.views.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/basic.controllers.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/second.controllers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/basic.views.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home.views.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/core/basic.systems.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/core/basic.systems.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/routes.systems.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/core/routes.systems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/core/routes.systems.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/core/routes.systems.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +124,15 @@
       <workItem from="1603881837168" duration="1125000" />
       <workItem from="1603884693847" duration="935000" />
       <workItem from="1603894736390" duration="704000" />
+      <workItem from="1603895834517" duration="616000" />
+      <workItem from="1603903376143" duration="3658000" />
+      <workItem from="1603911802612" duration="2010000" />
+      <workItem from="1603976935638" duration="1433000" />
+      <workItem from="1604053123668" duration="3833000" />
+      <workItem from="1604309931265" duration="382000" />
+      <workItem from="1604314643433" duration="2421000" />
+      <workItem from="1604497185538" duration="2148000" />
+      <workItem from="1604500625113" duration="871000" />
     </task>
     <servers />
   </component>
@@ -157,10 +164,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1603894790383" />
-    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1603884794244">
+    <state x="618" y="153" key="NewPhpClassDialog" timestamp="1603912080176">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1603884794244" />
+    <state x="618" y="153" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1603912080176" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1604055531975">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1604055531975" />
     <state x="301" y="75" key="SettingsEditor" timestamp="1602685132225">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
