@@ -6,7 +6,7 @@ require_once("vendor/core/routes.systems.php");
 
 
 
-$homeRoutes = new Routes("home","home","home",null); //Yeni bir route nesnesi oluşturur.(views home)
+$homeRoutes = new Routes("home","home","home",null);
 $secondRoutes = new Routes("second","second","second",null);
 
 if(isset($_GET["routes"])) {

@@ -21,6 +21,14 @@
   <component name="ChangeListManager">
     <list default="true" id="f622ae6f-56ee-4ed4-8b6a-d3a1057a5656" name="Default Changelist" comment="Deneme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/home.controllers.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/home.controllers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/home.views.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home.views.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/second.views.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/second.views.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/core/basic.systems.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/core/basic.systems.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/core/routes.systems.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/core/routes.systems.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,6 +136,17 @@
       <workItem from="1604497185538" duration="2148000" />
       <workItem from="1604500625113" duration="871000" />
       <workItem from="1604569083639" duration="984000" />
+      <workItem from="1604570206467" duration="1532000" />
+      <workItem from="1604576239000" duration="2900000" />
+      <workItem from="1604649773503" duration="796000" />
+      <workItem from="1604662071597" duration="1383000" />
+      <workItem from="1604743143211" duration="3661000" />
+      <workItem from="1604759081458" duration="958000" />
+      <workItem from="1604760106610" duration="141000" />
+      <workItem from="1604760356434" duration="1081000" />
+      <workItem from="1605861746112" duration="17000" />
+      <workItem from="1606068549815" duration="543000" />
+      <workItem from="1606237772358" duration="369000" />
     </task>
     <task id="LOCAL-00001" summary="Deneme">
       <created>1604569739566</created>
@@ -159,10 +178,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Deneme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="507" y="73" key="#PHP" timestamp="1602323435264">
+    <state x="507" y="73" key="#PHP" timestamp="1604663352611">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="507" y="73" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1602323435264" />
+    <state x="507" y="73" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1604663352611" />
     <state x="538" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602318687845">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -171,14 +190,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1603894790383" />
-    <state x="618" y="153" key="NewPhpClassDialog" timestamp="1603912080176">
+    <state x="618" y="153" key="NewPhpClassDialog" timestamp="1604650564582">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="618" y="153" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1603912080176" />
-    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1604055531975">
+    <state x="618" y="153" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1604650564582" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1604662118196">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1604055531975" />
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1604662118196" />
     <state x="301" y="75" key="SettingsEditor" timestamp="1602685132225">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

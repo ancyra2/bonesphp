@@ -1,6 +1,5 @@
 <?php
 require_once ("C:/xampp/htdocs/bonesphp/config/settings.php");
-//require_once ("_shared/header.views.php");
 require_once ("config/database.php");
 require_once("vendor/core/routes.systems.php");
 
@@ -19,11 +18,17 @@ echo "Home views çağırıldı.";
 <body>
 
     <ul>
-        <li><a href=<?php echo Routes::web("home"); ?>>Home</a></li>
-        <li><a href=<?php echo Routes::web("second"); ?>>Second</a></li>
+        <li><a href=<?php Routes::web("home"); ?>>Home</a></li>
+        <li><a href=<?php Routes::web("second"); ?>>Second</a></li>
 
 
     </ul>
+
+<h1>Veriler</h1>
+<?php
+
+
+?>
 </body>
 </html>
 
